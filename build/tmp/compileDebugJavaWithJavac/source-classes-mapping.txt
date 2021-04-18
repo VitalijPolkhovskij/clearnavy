@@ -1,0 +1,4 @@
+com/pvs/clearnavy/BuildConfig.java
+ com.pvs.clearnavy.BuildConfig
+com/pvs/clearnavy/ClearNavy.java
+ com.pvs.clearnavy.ClearNavy
