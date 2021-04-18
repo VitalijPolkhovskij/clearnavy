@@ -1,6 +1,11 @@
 plugins {
     id 'com.android.library'
+    id 'android-maven'
 }
+/*
+apply plugin : 'com.android.library'
+apply plugin : 'android-maven'                 // PVS
+*/
 
 android {
     compileSdkVersion 30
